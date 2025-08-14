@@ -21,9 +21,9 @@ An updated version of the original [PhotoPix](https://ishaan-jog.github.io/photo
    ```bash
    git clone https://github.com/Ishaan-Jog/photopix-v2.git
    ```  
-2. **Install dependencies**  
+2. **Install Django (if not already)**  
    ```bash
-   pip install -r requirements.txt
+   pip install django
    ```  
 3. **Start the server**  
    ```bash
